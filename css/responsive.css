@@ -24,7 +24,7 @@ h2 {
   font-size: 1.5em;
 }
 main {
-  max-width: 500px;
+  max-width: 1000px;
   margin: 0 auto;
   background: #eee;
   text-align: center;
@@ -33,9 +33,9 @@ main {
 section {
   font-size: 1em;
   background: #888;
-  width: 22%;
-  margin: 1em 1% 1em 1%;
-  display: inline-block;
+ /* width: 22%; */
+ /* margin: 1em 1% 1em 1%; */
+ /* display: inline-block; */
 }
 section:hover {
   background: #666;
